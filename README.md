@@ -13,7 +13,10 @@ Please use the exact filename stated at [nextbeans.com](https://nextbeans.com/re
 ### Example Request:
 Attached upload: collapseTree.png  
 Folder: /platform/collapseTree.png  
- 
+
+## Guidelines & Help for Designing
+[Material Design - Google](https://material.io/guidelines/#)
+[Finding fitting color combinations - Colormind.io](http://colormind.io/)
 
 ## Folder Structure  
 READY/  
