@@ -16,6 +16,7 @@ Folder: /platform/collapseTree.png
 
 ## Guidelines & Help for Designing
 [Material Design - Google](https://material.io/guidelines/#)  
+[Material Design Lite](https://getmdl.io)  
 [Finding fitting color combinations - Colormind.io](http://colormind.io/)  
 
 ## Folder Structure  
